@@ -1,5 +1,5 @@
 ## As Github does not support plotly, I am adding Screenshots of output i have got
-### ![SS1](/Data Visualization with Plotly Express/ScreenShots/output1.png)
+### ![SS1](ScreenShots/output1.png)
 
 ### ![SS2](/ScreenShots/output2.png)
 
