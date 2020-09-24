@@ -1,18 +1,28 @@
-## As Github does not support plotly, I am adding Screenshots of output i have got
+# As Github does not support plotly, I am adding Screenshots of output i have got
+
+## gapminder dataset table
 ### ![SS1](ScreenShots/output1.png)
 
-### ![SS2](/ScreenShots/output2.png)
+## bar graph for Canada
+### ![SS2](ScreenShots/output2.png)
 
-### ![SS3](/ScreenShots/output3.png)
+## scatter plot for gapminder dataset for year 2007
+### ![SS3](ScreenShots/output3.png)
 
-### ![SS4](/ScreenShots/output4.png)
+## scatter plot for gapminder dataset for year 2007 with pop size
+### ![SS4](ScreenShots/output4.png)
 
-### ![SS5](/ScreenShots/output5.png)
+## scatter plot for gapminder dataset with pop size which displays country when hovered over it
+### ![SS5](ScreenShots/output5.png)
 
-### ![SS6](/ScreenShots/output6.png)
+## scatter plot for individual continents 
+### ![SS6](ScreenShots/output6.png)
 
-### ![SS7](/ScreenShots/output7.png)
+## animation for gapminder dataset
+### ![SS7](ScreenShots/output7.png)
 
-### ![SS8](/ScreenShots/output8.png)
+## gapminder data as orthographic and natural earth projection
+### ![SS8](ScreenShots/output8.png)
 
-### ![SS9](/ScreenShots/output9.png)
+## line group plot of all country present in gapminder dataset
+### ![SS9](ScreenShots/output9.png)
