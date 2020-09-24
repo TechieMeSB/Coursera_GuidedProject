@@ -1,0 +1,14 @@
+Interactive data visualizations with Plotly Express: a high-level data visualization library in Python inspired by Seaborn and ggplot2.
+Used to explore the various features of the in-built Gapminder dataset, and produce interactive, publication-quality graphs to augment analysis.
+
+Learning objectives of this project:
+* Apply Plotly Express for rapid data visualization and analysis.
+* Customize charts, animations, and demonstrate the various plotly.express features.
+
+There are 6 tasks to accomplish
+* Loading the Data
+* Quick Visualizations with Custom Bar Charts
+* Plot Life Expectancy vs GDP per Capita
+* Customize Interactive Bubble Charts
+* Create Interactive Animations and Facet Plots
+* Represent Geographic Data as Animated Maps
